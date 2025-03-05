@@ -1,2 +1,1 @@
-# spider
-使用java+httpclient+httpcleaner，多线程、分布式爬去电商网站商品信息，数据存储在hbase上，并使用solr对商品建立索引，使用redis队列存储一个共享的url仓库；使用zookeeper对爬虫节点生命周期进行监视等。
+该代码实现了一个基于Java的多线程昵图网图片爬虫项目，主要包含图片抓取和URL池管理两大模块。
